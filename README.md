@@ -10,4 +10,4 @@
 
 This project is licensed under the ISC License.
 
-##### Industrial-Grade Reliability. Copyright (c) 2020-2022 ALBANESE Research Lab.
+##### Commercial-Grade Reliability. Copyright (c) 2020-2022 ALBANESE Research Lab.
